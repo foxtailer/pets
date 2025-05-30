@@ -1,2 +1,2 @@
-# pets
-~ bunch of pretty pets ~
+Attempt to implement some ideas from there:
+https://github.com/florinpop17/app-ideas
